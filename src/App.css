@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+
+.detail {
+  background: #F0F1D5;
+  height: 100vh;
+  width: 100%;
+  margin-top: 5px !important;
+  overflow: auto;
+  padding-right: 12px;
+  padding-left: 12px;
+  font-family: 'Righteous', cursive;
+}
+
+.MuiAppBar-positionFixed-02 {
+  position: static !important;
+}
+
+.MuiAppBar-root-01 {
+  display: block !important;
+}
+
+@media (max-width: 62em) {
+  
+}
+.WeatherApp{
+ 
+}
+
+.MuiAppBar-colorPrimary-08 {
+  color: #fff;
+  background-color: #C33325 !important;
+}
+
+h1{
+  color: #105187;
+}
+
